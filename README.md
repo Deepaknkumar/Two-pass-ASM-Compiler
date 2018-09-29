@@ -1,2 +1,2 @@
 # Two-pass-ASM-Compiler
-A basic two pass ASM compiler using Java
+A simple two pass ASM compiler using Java
